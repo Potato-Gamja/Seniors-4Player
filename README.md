@@ -22,7 +22,9 @@ E-mail: seunguk.gamja@gmail.com
 <br>
 
 ### 2. 기능 구현
+- 카드 선택 (카드 뒤집기)
 
+- 카드 매칭 (카드 비교하기)
 ---
 # 스네이크 게임
 ### 1. 기대효과
@@ -39,3 +41,7 @@ E-mail: seunguk.gamja@gmail.com
 <br>
 
 ### 2. 기능 구현
+- 뱀 컨트롤
+    - 
+
+- 먹이 생성
